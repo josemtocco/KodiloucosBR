@@ -1,0 +1,216 @@
+#EXTM3U
+#EXTINF:27, Teleweb TV * | BR
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Grande Natal HDTV * | BR
+#EXTVLCOPT:network-caching=1000
+http://tvgrandenatalhd.duckdns.org:8080/hls/live.m3u8?PlaylistM3UCL
+#EXTINF:0, Vintage TV * | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvstm.com/rogerio4248/rogerio4248/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Agro Brasil TV | BR
+#EXTVLCOPT:network-caching=1000
+https://server.flixtv.com.br/agrobrasiltv/agrobrasiltv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, APlus TV | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.voxtvhd.com.br/aplustv/aplustv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, ArarunaTV | BR
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/ararunatv/ararunatv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Band | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, Classique TV | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/classique/classique/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, LassTV | BR
+#EXTVLCOPT:network-caching=1000
+https://streaming03.zas.media:1936/lasstv/lasstv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, NTV Patos de Minas | BR
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Record News Espirito Santo | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/8016/8016/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Record TV RN | BR
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/raniere/_definst_/raniere/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Rede Brasil de Televisao | BR
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Rede Premium TV | BR
+#EXTVLCOPT:network-caching=1000
+https://5c483b9d1019c.streamlock.net:443/8066/8066/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, SBT GO | BR
+#EXTVLCOPT:network-caching=1000
+https://5a1c76baf08c0.streamlock.net/tvsd2/smil:tvsd2_20042020.smil/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV A Plateia | BR
+#EXTVLCOPT:network-caching=1000
+https://video01.kshost.com.br/kamal3366/kamal3366/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Água Boa | BR
+#EXTVLCOPT:network-caching=1000
+http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Atividade | BR
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Carioca | BR
+#EXTVLCOPT:network-caching=1000
+https://srv5.zcast.com.br/tvcarioca/tvcarioca/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Curuça | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/tvcurucasp/tvcurucasp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Destak | BR
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Difusora | BR
+#EXTVLCOPT:network-caching=1000
+https://stream.amsolution.net.br:8443/live/60ce4ae4b9d4c/index.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Difusora Leste | BR
+#EXTVLCOPT:network-caching=1000
+https://stream.amsolution.net.br:8443/live/60d0a8ea6b884/index.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Difusora Sul | BR
+#EXTVLCOPT:network-caching=1000
+https://stream.amsolution.net.br:8443/live/60dceaa0637fb/index.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Digital Birigui | BR
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Infor Bahia | BR
+#EXTVLCOPT:network-caching=1000
+https://59f1cbe63db89.streamlock.net:1443/tvinforbahia/_definst_/tvinforbahia/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Jornal do Nordeste | BR
+#EXTVLCOPT:network-caching=1000
+https://video01.logicahost.com.br/tvjornaldonordeste/tvjornaldonordeste/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Mais | BR
+#EXTVLCOPT:network-caching=1000
+https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Maná Brasil | BR
+#EXTVLCOPT:network-caching=1000
+http://195.22.11.11:1935/tvmanabrasil/tvmanabrasil_2/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Mar | BR
+#EXTVLCOPT:network-caching=1000
+https://virtues.es:1936/tvmar/tvmar/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Mundial | BR
+#EXTVLCOPT:network-caching=1000
+https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Natal | BR
+#EXTVLCOPT:network-caching=1000
+https://StmV1.srvstm.com/antonioflavio9545/antonioflavio9545/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Plan | BR
+#EXTVLCOPT:network-caching=1000
+http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Poços | BR
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/redeatividade/_definst_/redeatividade/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Pombal | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Rio Preto | BR
+#EXTVLCOPT:network-caching=1000
+http://201.48.245.24:1935/live/livestream/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Serra Verde | BR
+#EXTVLCOPT:network-caching=1000
+https://5d82644094cc0.streamlock.net:443/8020/8020/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Sim Cachoeiro | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Sim Colatina | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8132/8132/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Sim Linhares | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Sim Sao Mateus | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8236/8236/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Sim Vitória | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net:443/8104/8104/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Sul | BR
+#EXTVLCOPT:network-caching=1000
+http://live.cdn.upx.com/00046/myStream.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Ti Vejo | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/ddacostenaro/ddacostenaro/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Vicosa | BR
+#EXTVLCOPT:network-caching=1000
+http://wz4.dnip.com.br/fratevitv/fratevitv.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TVE | BR
+#EXTVLCOPT:network-caching=1000
+http://streaming.procergs.com.br:1935/tve/stve/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Via Morena | BR
+#EXTVLCOPT:network-caching=1000
+https://59f2354c05961.streamlock.net:1443/cleuzaviamorena/_definst_/cleuzaviamorena/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, All Sports | BR
+#EXTVLCOPT:network-caching=1000
+https://5cf4a2c2512a2.streamlock.net/dgrau/dgrau/chunklist_w856809681.m3u8?PlaylistM3UCL
+#EXTINF:0, AniTV | BR
+#EXTVLCOPT:network-caching=1000
+https://stream.ichibantv.ga:3764/hybrid/play.m3u8?PlaylistM3UCL
+#EXTINF:0, Canal 29 | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/canal29/canal29/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Gospel Cartoon | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, ISTV | BR
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Kuriakos Kids | BR
+#EXTVLCOPT:network-caching=1000
+http://c2.manasat.com:1935/kkids/kkids2/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, Retro Cartoon | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/retrotv/retrotv/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Aracati | BR
+#EXTVLCOPT:network-caching=1000
+https://livefocamundo.com:8081/tvaracati/index.m3u8?PlaylistM3UCL
+#EXTINF:0, TV J.SID | BR
+#EXTVLCOPT:network-caching=1000
+https://livefocamundo.com:8081/tvjsid/index.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Japi | BR
+#EXTVLCOPT:network-caching=1000
+https://srv2.zcast.com.br/tvjapi/tvjapi/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Machete | BR
+#EXTVLCOPT:network-caching=1000
+https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Yellow TV | BR
+#EXTVLCOPT:network-caching=1000
+https://serv3.videovox.pw/gilferson4004/gilferson4004/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Mundo de la Musica TV | CL
+#EXTVLCOPT:network-caching=1000
+https://6362ca6f1fc28.streamlock.net:443/8078/8078/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Sexy Kpop TV | BR
+#EXTVLCOPT:network-caching=1000
+https://srv1.zcast.com.br/kpoptv/kpoptv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Top TV | BR
+#EXTVLCOPT:network-caching=1000
+https://cast.cdnseguro.com:19360/8092/8092.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Uniao | BR
+#EXTVLCOPT:network-caching=1000
+https://596639ebdd89b.streamlock.net:443/tvuniao/tvuniao/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Gospel Movies Television | BR
+#EXTVLCOPT:network-caching=1000
+https://stmv1.srvif.com/gospelf/gospelf/playlist-480p.m3u8?PlaylistM3UCL
+#EXTINF:0, Nuevo Tiempo | BR
+#EXTVLCOPT:network-caching=1000
+https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Rede Vida | BR
+#EXTVLCOPT:network-caching=1000
+https://cvd1.cds.ebtcvd.net/live-redevida/smil:redevida.smil/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Aparecida | BR
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Evangelizar | BR
+#EXTVLCOPT:network-caching=1000
+https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Rede Gospel | BR
+#EXTVLCOPT:network-caching=1000
+https://cdn.jmvstream.com/w/LVW-8719/LVW8719_AcLVAxWy5J/chunklist.m3u8?PlaylistM3UCL
+#EXTINF:0, TV Universal | BR
+#EXTVLCOPT:network-caching=1000
+https://644398c.ha.azioncdn.net/primary/tvuniversal_480p.sdp/playlist.m3u8?PlaylistM3UCL
+#EXTINF:0, Spectrum Channel | CL
+#EXTVLCOPT:network-caching=1000
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
+#EXTVLCOPT:network-caching=1000
+https://panel.miplay.cl:8081/spectrumchannel/index.m3u8?PlaylistM3UCL
